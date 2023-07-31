@@ -1,8 +1,10 @@
-<h1 align="center" id="title">Title</h1>
+<h1 align="center" id="title">Template React Tailwind</h1>
 
-<p id="description">Template React Tailwind</p>
+<p id="description">Description Paragraph</p>
 
 <h2>🚀 Demo</h2>
+
+Netlify Badge
 
 [Link](Link)
 
