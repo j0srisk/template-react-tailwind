@@ -28,6 +28,6 @@ Here're some of the project's best features:
 
 Technologies used in the project:
 
-*   React JS
-*   Vite
-*   Tailwind
+*   Technology 1
+*   Technology 2
+*   Technology 3
